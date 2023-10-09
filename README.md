@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Bobmanuel Ogbuokiri
-# 👀 I’m interested in Machine learning, Deep learning and Artificial Intelligence.
+# 👀 I’m interested in Machine learning, Deep learning, Artificial Intelligence, and Web Developmant!
 # 📫 How to reach me;
 # email me via; bobbyorr007@gmail.com
 # linkedIn; linkedin.com/in/bobmanuel-ogbuokiri-29b8361ab
